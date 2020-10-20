@@ -5,7 +5,7 @@ From Player ID get all Identifiers and log on Discord
 1. Download the file
 2. Paste it on your resources folder
 3. Create a Discord Webhook
-4. Paste inside '' #3 line
+4. Paste it inside ' '  #3 line
 3. "start GetPlayerIdentifiersByJoaoPedro" on server.cfg
 
 ## How to use it ##
